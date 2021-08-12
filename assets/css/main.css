@@ -1,4 +1,6 @@
 @import url("fontawesome-all.min.css");
+@import url("academicons.min.css");
+@import url("academicons.css");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic|Open+Sans+Condensed:700");
 
 /*
@@ -2292,6 +2294,10 @@ input, select, textarea {
 
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
+		}
+
+		.icon.ai:before {
+			font-family: 'Academicons';
 		}
 
 /* Page Wrapper */
